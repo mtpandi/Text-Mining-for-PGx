@@ -5,3 +5,7 @@ Text-mining in biomedical literature is an emerging field which has already show
 
 
 ![Alt text](https://github.com/mtpandi/Text-Mining-for-PGx/blob/master/PROJECTlayout.png)
+
+
+### References
+Pandi M-T, van der Spek PJ, Koromina M and Patrinos GP (2020) A Novel Text-Mining Approach for Retrieving Pharmacogenomics Associations From the Literature. Front. Pharmacol. 11:602030. doi: 10.3389/fphar.2020.602030
